@@ -235,4 +235,4 @@ This repository serves as the official landing page for Intel Driver Update. The
 **Get the most recent version of Intel Driver Update today!**
 
 ---
-**Last updated:** 2026-10-24 17:51:20 UTC
+**Last updated:** 2026-10-24 20:17:03 UTC
